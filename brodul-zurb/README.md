@@ -1,5 +1,5 @@
-ZurbFoundation5 Theme
-=====================
+Brodul Theme
+============
 
 This theme is made from the TuxLite ZF Theme, and all credit goes to the author of that theme. I wanted to use the new [Zurb Foundation 5 Framework](http://foundation.zurb.com/) - I just updated it.
 
